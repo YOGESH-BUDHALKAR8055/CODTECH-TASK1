@@ -19,6 +19,9 @@ Resistors (10kΩ) - Pull-down resistors for the buttons.
 Jumper Wires - For connections.
 Breadboard - For prototyping.
 
+## Diagram: 
+
+
 ## Key Features
 Increment/Decrement Counter: Use one button to increment the counter and another to decrement it.
 Reset Counter: Optional feature to reset the counter to zero using a third button.
