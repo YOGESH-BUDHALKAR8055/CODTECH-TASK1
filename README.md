@@ -20,6 +20,7 @@ Jumper Wires - For connections.
 Breadboard - For prototyping.
 
 ## Diagram: 
+![image_alt](https://github.com/YOGESH-BUDHALKAR8055/CODTECH-TASK1/blob/main/Push_Button_Counter%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2020-01-2025%2010_57_34.png?raw=true)
 
 
 ## Key Features
